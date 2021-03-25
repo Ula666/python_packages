@@ -1,7 +1,7 @@
 # Python packages
-
-### package - list of different functions
+- Are namespaces which contain multiple packages and modules themselves. 
 ### why should we use them?
+- To minimize the use of code. 
 ### What is PIP?
 - `pip` It's a package manager in Python to install packages
 - To use pip `pip install packacge_name`
